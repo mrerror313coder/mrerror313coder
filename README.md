@@ -1,10 +1,8 @@
 <div align="center">
 
 # 👋 Hi, I'm Muhammad Asad Riaz
-### Data Scientist & AI Developer
 
-**7th-Semester CS Student · University of Layyah, Pakistan**
-Data Science • Machine Learning • Agentic AI • Full-Stack Development
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI+Developer;Building+Agentic+AI+Systems;ML+%2B+Full-Stack+Engineer;7th-Semester+CS+Student" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=firefox&logoColor=22d3ee)](https://mrerror313coder.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-riaz-mrerror313/)
@@ -50,7 +48,7 @@ I'm a Computer Science student at the University of Layyah, focused on the inter
 ### 🏙️ 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mrerror313coder/mrerror313coder/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
+  <img src="https://raw.githubusercontent.com/mrerror313coder/mrerror313coder/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" width="90%" />
 </div>
 
 ---
