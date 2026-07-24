@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mrerror313coder/mrerror313coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Muhammad Asad Riaz
+### Data Scientist & AI Developer
 
-Here are some ideas to get you started:
+**7th-Semester CS Student · University of Layyah, Pakistan**
+Data Science • Machine Learning • Agentic AI • Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=firefox&logoColor=22d3ee)](https://mrerror313coder.tech/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-riaz-mrerror313/)
+[![Blog](https://img.shields.io/badge/Blog-00599C?style=for-the-badge&logo=blogger&logoColor=white)](https://mrerror313blog.lovable.app/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadasadriazkhan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/asadriazmerani/)
+
+</div>
+
+---
+
+### 🚀 About Me
+
+I'm a Computer Science student at the University of Layyah, focused on the intersection of **data science, machine learning, and agentic AI** — shipping tools that turn messy data and repetitive work into measurable outcomes.
+
+- 🏙️ **Campus Ambassador** for Code with Ahsan, and a former **AWS SBG Core Team Member** at my university
+- 🧠 Building **agentic AI** and **RAG pipelines** that handle real workflows end-to-end
+- ⚡ Compete in hackathons — SOFTEC '26 AI Hackathon, DevFest AmplifAI Lahore 2025
+- 📫 Reach me: asadriazmerani@gmail.com
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,fastapi,django,nodejs,postgres,mongodb,git,github,vscode&perline=10" alt="Tech Stack" />
+</div>
+
+---
+
+### 🧪 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[OmicsDB](https://github.com/mrerror313coder/omicsdb)** | Hybrid genomic data platform with real-time ETL | Python, FastAPI, React, MongoDB, PostgreSQL |
+| **[Zamanat](https://github.com/mrerror313coder/zamanat)** | Digital escrow for Pakistan's informal service economy | Node.js, Express, MongoDB |
+| **[Zynex](https://github.com/mrerror313coder/zynex)** | AI scanner that ranks opportunity emails for students | Python, FastAPI, Streamlit, LLMs |
+| **[SPMS](https://github.com/mrerror313coder/spms)** | Student Project Management System | Django, PostgreSQL, Bootstrap |
+| **[Premio Essence](https://github.com/mrerror313coder/premio-essence)** | Premium e-commerce storefront | Shopify, Liquid, Tailwind CSS |
+
+---
+
+### 🏙️ 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mrerror313coder/mrerror313coder/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contributions" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrerror313coder&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1&icon_color=a855f7" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrerror313coder&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrerror313coder&hide_border=true&background=00000000&stroke=22d3ee&ring=a855f7&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=cbd5e1&sideNums=cbd5e1" alt="GitHub Streak" />
+</div>
