@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad+Asad+Riaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data+Scientist+%26+AI+Developer&descAlignY=58&descSize=18&v=2" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad+Asad+Riaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data+Scientist+and+AI+Developer&descAlignY=58&descSize=18" alt="header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI+Developer;Building+Agentic+AI+Systems;ML+%2B+Full-Stack+Engineer;7th-Semester+CS+Student" alt="Typing SVG" />
 
