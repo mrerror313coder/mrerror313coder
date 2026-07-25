@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Asad%20Riaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20AI%20Developer&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad+Asad+Riaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data+Scientist+%26+AI+Developer&descAlignY=58&descSize=18&v=2" alt="header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI+Developer;Building+Agentic+AI+Systems;ML+%2B+Full-Stack+Engineer;7th-Semester+CS+Student" alt="Typing SVG" />
 
@@ -66,8 +66,8 @@ I'm a Computer Science student at the University of Layyah, focused on the inter
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrerror313coder&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1&icon_color=a855f7" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrerror313coder&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-red-mu-35.vercel.app/api?username=mrerror313coder&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1&icon_color=a855f7" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-red-mu-35.vercel.app/api/top-langs/?username=mrerror313coder&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=cbd5e1" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
