@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-I'm a Computer Science student at the University of Layyah, focused on the intersection of **data science, machine learning, and agentic AI** — shipping tools that turn messy data and repetitive work into measurable outcomes.
+I'm a Computer Science student at the University Of Layyah, focused on the intersection of **data science, machine learning, and agentic AI** — shipping tools that turn messy data and repetitive work into measurable outcomes.
 
 - 🏙️ **Campus Ambassador** for Code with Ahsan, and a former **AWS SBG Core Team Member** at my university
 - 🧠 Building **agentic AI** and **RAG pipelines** that handle real workflows end-to-end
