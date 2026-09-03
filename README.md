@@ -20,7 +20,7 @@
 
 I'm a Computer Science student at the University of Layyah, focused on the intersection of **data science, machine learning, and agentic AI** — shipping tools that turn messy data and repetitive work into measurable outcomes.
 
-- 🏙️ **Campus Ambassador** for Code with Ahsan, and a former **AWS SBG Core Team Member** at my university
+- 🏙️ **Campus Ambassador** for Code with Ahsan, and a **AWS SBG Core Team Member** at my university
 - 🧠 Building **agentic AI** and **RAG pipelines** that handle real workflows end-to-end
 - ⚡ Compete in hackathons — SOFTEC '26 AI Hackathon, DevFest Lahore 2025
 - 📫 Reach me: https://www.mrerror313coder.tech
